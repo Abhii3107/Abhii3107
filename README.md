@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhay Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhii3107&label=Profile%20views&color=0e75b6&style=flat" alt="abhii3107" /> </p>
-
 - 👯 I’m looking to collaborate on **Real-world React Projects**
 
 - 👨‍💻 All of my projects are available at [https://3-d-portfolio-tan-nu.vercel.app/](https://3-d-portfolio-tan-nu.vercel.app/)
