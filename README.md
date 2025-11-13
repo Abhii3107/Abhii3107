@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **Real-world React Projects**
 
-- 👨‍💻 All of my projects are available at [https://3-d-portfolio-tan-nu.vercel.app/](https://3-d-portfolio-tan-nu.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://3-d-portfolio-tan-nu.vercel.app/](https://3d-react-portfolio-one.vercel.app/)
 
 - 📫 How to reach me **abhaysingh03032002@gmail.com**
 
